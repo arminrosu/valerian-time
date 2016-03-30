@@ -2,7 +2,7 @@
 
 ![Widget Preview](screenshot.png "Widget Preview")
 
-An [Übersicht](https://github.com/felixhageloh/uebersicht) clock widget based on [a pen by Allan Crissey](http://codepen.io/TheRealAlan/pen/zCdbH), comissioned by [Valéria Boikova](http://www.valeriaboikova.com/).
+An [Übersicht](https://github.com/felixhageloh/uebersicht) clock widget based on [a pen](http://codepen.io/TheRealAlan/pen/zCdbH) by [Allan Crissey](https://github.com/TheRealAlan/). Comissioned by [Valéria Boikova](http://www.valeriaboikova.com/).
 
 ## Installation
 
